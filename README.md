@@ -1,3 +1,3 @@
 # git-demo-lms
 This is repository for git tutorial
-add trigger
+add trigger2
